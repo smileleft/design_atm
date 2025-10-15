@@ -13,7 +13,7 @@ pip install -r requirements.txt
 # pytest would be installed
 ```
 
-## Run Test
+## Run 
 ```
-pytest -v
+python main.py
 ```
