@@ -17,3 +17,9 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+## Run Tests
+```
+# on the project root directory
+pytest -v
+```
