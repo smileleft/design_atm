@@ -1,6 +1,9 @@
 # Design Atm Project #
 
-How to Run
+## How to Clone
+```
+git clone github.com/smileleft/design_atm.git
+```
 
 ## Move to Project Root
 ```
